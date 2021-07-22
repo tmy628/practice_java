@@ -14,6 +14,7 @@ public class Chapter05 {
 		System.out.println(i);
 		Character c = 'あ';
 		System.out.println(c);
+		
 		int[] array = { 1, 2, 3, 4, 5 };
 		System.out.println(array[3]);
 	}
